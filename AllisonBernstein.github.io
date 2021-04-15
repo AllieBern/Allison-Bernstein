@@ -1,11 +1,9 @@
 
 <!DOCTYPE html>
 <html>
-  <h1 style="text-align:center;">MY MIS301 HTML ASSIGNMENT FROM 2019</h1>
-  <h1 style="text-align:center;font-family:signpainter;">My name is Sage Buchanan </h1>
-  <h1 style="text-align:center;font-family:heiti sc;">WELCOME TO MY WEBSITE! </h2>
+  <h1 style="text-align:center;font-family:signpainter;">My name is Allison Bernstein, welcome to my site!" </h1>
 
-<center><img src="colorado.JPG" width="400" height="266"><img src="This-Is-Me.JPG" width="400" height"266"><img src="chicago.JPG" width="400" height="266" />
+<center><img src="Bluebonnet Picture" width="400" height="266"><img src="This-Is-Me.JPG" width="400" height"266"><img src="chicago.JPG" width="400" height="266" />
   
 <b><h1 style="text-align:center;font-family:signpainter;font-style:bold;> align="center"> ABOUT ME </h1>
 <p style ="text-align:center;font-family:heiti sc;font-size:16px;font-style:italic"> 
