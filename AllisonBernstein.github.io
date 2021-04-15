@@ -3,20 +3,15 @@
 <html>
   <h1 style="text-align:center;font-family:signpainter;">My name is Allison Bernstein, welcome to my site!" </h1>
 
-<center><img src="Bluebonnet Picture" width="400" height="266"><img src="This-Is-Me.JPG" width="400" height"266"><img src="chicago.JPG" width="400" height="266" />
-  
+<center><img src="Bluebonnet Picture" width="400" height="266">
+
 <b><h1 style="text-align:center;font-family:signpainter;font-style:bold;> align="center"> ABOUT ME </h1>
 <p style ="text-align:center;font-family:heiti sc;font-size:16px;font-style:italic"> 
-  I am a freshman at the University of Texas at Austin majoring in Management Information Systems with a minor in Marketing. I grew up in Rockwall, TX (just East of Dallas) with my parents, my older siblings (Shelby & Blake), and all sorts of animals. I love my family, friends, creating fun videos of my everyday adventures, and all-day movie marathons! </p>
-  
-<center><img src="fam.JPG" width="400" height="266"><img src="besties.JPG" width="400" height"266"><img src="bribri.JPG" width="400" height="266" />
-  
-<p style ="text-align:center;font-family:heiti sc;font-size:16px;font-style:italic"> 
-  I can usually be found at a coffeeshop, somewhere outside on campus, or, from time-to-time, running around in Disney World. My favorite foods include Pirate's Booty (it's good, trust me) and pasta, and I could probably survive on cold brew coffee. The way to my heart is a classic chocolate milkshake or a random trip to Target!  </p>
+  I am a sophomore at the University of Texas at Austin currently majoring in Unspecified Business in hopes of pursuing real estate finance in the future. I grew up in Sugar Land, TX (a suburb of Houston), with my mom, dad, sister (Melissa), brother (Michael), and fluffy dog (Juliet) . I love spending time with my family and friends, watching home renovation and architecture shows, and hiking and biking around in nature! </p>
   
 <h1 style="text-align: center;font-family:signpainter;">My Favorite Website</h1>
   
-<p style="text-align: center;font-family:heiti sc;"><a href="https://www.youtube.com/channel/UChNEqWM0HWbhb-e44nMLm1Q">Click Here</a> to go to my YouTube channel!</p>
+<p style="text-align: center;font-family:heiti sc;"><a href="https://www.pinterest.com/search/pins/?q=inspirational%20quotes&rs=typed&term_meta[]=inspirational%7Ctyped&term_meta[]=quotes%7Ctyped">Click Here</a> to go to my favorite site!</p>
 
 <h1 style="text-align: center;font-family:signpainter;">Thanks for visiting!</h1>
   
