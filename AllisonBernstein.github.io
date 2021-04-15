@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
   <h1 style="text-align:center;font-family:signpainter;">My name is Allison Bernstein, welcome to my site!" </h1>
 
